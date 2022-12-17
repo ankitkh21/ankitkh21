@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitkh21
 - 👀 I’m interested in Machine Learning, Neural Networks, Electronics, Meditation and Spirituality.
-- 🌱 I’m currently learning about Neural Networks, Electronics and Principles of bhagaavat Geeta.
+- 🌱 I’m currently learning about Neural Networks, Electronics and Principles of bhagavat Geeta.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email: ankitkh21@iitk.ac.in
 
